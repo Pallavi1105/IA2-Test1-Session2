@@ -18,7 +18,7 @@ void input_array(int n,int a[n])
 int sum_composite(int n,int a[n])
 {
   int count=0,i;
-  for(i=0;i<n,i++)
+  for(i=0;i<n;i++)
     {
       if(a[i]==2)
       {
